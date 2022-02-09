@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d130ef44-8eee-4f8b-a469-218f0b902018" name="Default Changelist" comment="">
+    <list default="true" id="d130ef44-8eee-4f8b-a469-218f0b902018" name="Default Changelist" comment="modificar en casa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prueba.html" beforeDir="false" afterPath="$PROJECT_DIR$/Prueba.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/estilos_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos_2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <workItem from="1644357135617" duration="970000" />
       <workItem from="1644431972472" duration="662000" />
       <workItem from="1644433119081" duration="550000" />
-      <workItem from="1644441410309" duration="2403000" />
+      <workItem from="1644441410309" duration="2669000" />
     </task>
     <task id="LOCAL-00001" summary="reciente">
       <created>1644432950854</created>
@@ -87,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644434224166</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reciente2.2">
+      <created>1644443881207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644443881207</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,25 +117,30 @@
     <MESSAGE value="reciente2.0" />
     <MESSAGE value="reciente2.1" />
     <MESSAGE value="reciente2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="reciente2.2" />
+    <MESSAGE value="modificar en casa" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificar en casa" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Notifications" timestamp="1644433041708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1644433041708" />
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1644434223583">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1644444069118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1644434223583" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1644444069118" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1644444102724">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644444102724" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1644433110005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1644433110005" />
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1644434226271">
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1644443887019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644434226271" />
+    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644443887019" />
     <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1644441410983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
