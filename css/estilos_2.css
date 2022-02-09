@@ -1,3 +1,19 @@
-li{
-    color: aqua;
+body {
+    background-color: #909090;
+}
+p {
+    text-align: center;
+    color:white;
+    background-color: gray ;
+}
+li {
+    color:white;
+}
+input {
+    color:aqua;
+    background-color: black;
+}
+h1 {
+    color:white;
+
 }
