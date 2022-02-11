@@ -1,5 +1,15 @@
+img {
+    align-content: center;;
+}
+img {
+   ima;
+}
 body {
-    background-color: #909090;
+    width: 100%;
+    background-image: url("../imagenes/luna.jpg");
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 p {
     text-align: center;
@@ -13,7 +23,35 @@ input {
     color:aqua;
     background-color: black;
 }
-h1 {
+td {
+    color: white;
+}
+.title{
+    text-shadow: 5px 2px 4px black;
+    /*background-color: black;*/
+    text-align: center;
+    margin-top: 20px;
+    font-style: oblique;
+    font-size: 10em;
     color:white;
+    font-family: "Anger Styles";
+}
+table {
+    empty-cells: hide;
+    background-color: aliceblue;
+    border-collapse: separate;
+    height: 30px;
+}
+a:hover {
+    color: coral;
+    text-decoration: none;
+}
+.cuadro {
+    background-color: #909090;
+    border-radius: 15px;
+}
 
+.link {
+    color: aquamarine;
+    text-decoration: none;
 }
