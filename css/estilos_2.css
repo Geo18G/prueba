@@ -1,57 +1,72 @@
-img {
-    align-content: center;;
-}
-img {
-   ima;
-}
 body {
-    width: 100%;
-    background-image: url("../imagenes/luna.jpg");
-    background-position-x: center;
+    background-image: url("../imagenes/fondo1.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
-p {
-    text-align: center;
-    color:white;
-    background-color: gray ;
-}
-li {
-    color:white;
-}
-input {
-    color:aqua;
-    background-color: black;
-}
-td {
-    color: white;
-}
-.title{
-    text-shadow: 5px 2px 4px black;
-    /*background-color: black;*/
-    text-align: center;
-    margin-top: 20px;
-    font-style: oblique;
-    font-size: 10em;
-    color:white;
-    font-family: "Anger Styles";
-}
-table {
-    empty-cells: hide;
-    background-color: aliceblue;
-    border-collapse: separate;
-    height: 30px;
-}
-a:hover {
-    color: coral;
-    text-decoration: none;
-}
-.cuadro {
-    background-color: #909090;
-    border-radius: 15px;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
 }
 
-.link {
-    color: aquamarine;
+a:hover {
+    color: magenta;
     text-decoration: none;
+}
+
+.cuadro {
+    margin-top: -16px;
+    color: white;
+    background-image: linear-gradient(180deg, #b131ab 0, #872898 25%, #5b1c7e 50%, #311063 75%, #05064a 100%);
+    margin-left: -20px;
+    height: 400px;
+}
+
+.links {
+    display: inline-block;
+    color: white;
+    margin-top: -200px;
+    text-decoration: none;
+    padding: 7px;
+    font-family: "Gill Sans MT";
+}
+
+.cuadroInside {
+    text-align: center;
+    color: white;
+    font-family: "Gill Sans MT";
+    font-size: 30px;
+    margin-top: -30px;
+}
+
+.nav {
+    height: 50px;
+    margin-top: 0px;
+    background-color: #303030;
+}
+.search{
+    display: inline;
+    margin-top: -5px;
+    background-color: white;
+    padding-right: 90px;
+    border-radius: 20px;
+    padding-top: 13px;
+    padding-bottom: 11px;
+    border: 0px;
+}
+.link {
+    padding: 8px;
+    color: white;
+    margin-top: 9px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Gill Sans MT";
+}
+.link2 {
+    margin-left: -30px;
+    margin-top: -20px;
+    padding: 12px;
+    background-color: #303030;;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    font-family: "Gill Sans MT";
 }
