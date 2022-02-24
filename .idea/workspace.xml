@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d130ef44-8eee-4f8b-a469-218f0b902018" name="Default Changelist" comment="modificar en casa">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/las_noches.html" beforeDir="false" afterPath="$PROJECT_DIR$/las_noches.html" afterDir="false" />
-    </list>
+    <list default="true" id="d130ef44-8eee-4f8b-a469-218f0b902018" name="Default Changelist" comment="cambios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +81,7 @@
       <workItem from="1644943375781" duration="13794000" />
       <workItem from="1645393794165" duration="256000" />
       <workItem from="1645413383421" duration="177000" />
-      <workItem from="1645743018601" duration="310000" />
+      <workItem from="1645743018601" duration="524000" />
     </task>
     <task id="LOCAL-00001" summary="reciente">
       <created>1644432950854</created>
@@ -115,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644443881207</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cambios">
+      <created>1645743382703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645743382703</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,44 +142,7 @@
     <MESSAGE value="reciente2.1" />
     <MESSAGE value="reciente2.2" />
     <MESSAGE value="modificar en casa" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificar en casa" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="552" y="179" key="#Notifications" timestamp="1644433041708">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1644433041708" />
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1644958963824">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1644958963824" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1644444102724">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644444102724" />
-    <state x="758" y="232" key="RollbackChangesDialog" timestamp="1644445586348">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="758" y="232" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644445586348" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1644433110005">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1644433110005" />
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1644443887019">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="242" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644443887019" />
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1644943381703">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644943381703" />
-    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644433890847">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644433890847" />
-    <state x="661" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1644939299719">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="661" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1644939299719" />
+    <MESSAGE value="cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios" />
   </component>
 </project>
